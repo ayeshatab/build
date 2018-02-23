@@ -2,7 +2,7 @@
 
  
 
-void main()
+void big()
 
 {
 
@@ -14,7 +14,7 @@ void main()
 
     scanf("%d %d %d", &num1, &num2, &num3);
 
-    printf("num1 = %d\tnum2 = %d\tnum3 = %d\n", num1, num2, num3);
+    printf("num1 = %d\tnum2 = %d\tnum3 = %d\n \n", num1, num2, num3);
 
     if (num1 > num2)
 

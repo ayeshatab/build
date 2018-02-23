@@ -2,7 +2,7 @@
 
 #include <stdio.h>
  
-int main()
+int reverse()
 {
    int n, reverse = 0;
  
